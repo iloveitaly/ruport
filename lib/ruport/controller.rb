@@ -220,7 +220,7 @@ class Ruport::Controller
     def built_in_formats
      { :html => Ruport::Formatter::HTML,
        :csv  => Ruport::Formatter::CSV,
-       :pdf  => Ruport::Formatter::PDF,
+       :pdf  => Ruport::Formatter::WickedPDF,
        :text => Ruport::Formatter::Text }
     end
 
