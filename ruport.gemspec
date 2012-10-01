@@ -63,8 +63,6 @@ Gem::Specification.new do |s|
     "lib/ruport/formatter.rb",
     "lib/ruport/formatter/csv.rb",
     "lib/ruport/formatter/html.rb",
-    "lib/ruport/formatter/pdf.rb",
-    "lib/ruport/formatter/prawn_pdf.rb",
     "lib/ruport/formatter/template.rb",
     "lib/ruport/formatter/text.rb",
     "lib/ruport/version.rb",
